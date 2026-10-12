@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our ATC'26 paper, and cite the software repository using this metadata."
+authors:
+  - family-names: "Ivanenko"
+    given-names: "Serhii"
+    orcid: "https://orcid.org/0000-0002-4961-2679"
+title: "Mosaic Artifact"
+version: 1.0.0
+date-released: 2026-10-12
+url: "https://github.com/cloudsys-dpss-inescid/mosaic-platform"
+doi: "10.5281/zenodo.23319839"
+preferred-citation:
+  type: conference-paper
+  title: "Premature Hardware Binding is the Root of all Evil! Making Serverless Performance-Portable with Lazy Hardware Binding"
+  authors:
+    - family-names: "Ivanenko"
+      given-names: "Serhii"
+      orcid: "https://orcid.org/0000-0002-4961-2679"
+    - family-names: "Segarra"
+      given-names: "Carlos"
+      orcid: "https://orcid.org/0000-0003-3455-7563"
+    - family-names: "Bruno"
+      given-names: "Rodrigo"
+      orcid: "https://orcid.org/0000-0003-1578-5149"
+  year: 2026
+  collection-title: "Proceedings of The 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026), November 15-18, 2026, Hong Kong, China"

@@ -1,0 +1,7 @@
+Mosaic Artifact
+Copyright (c) 2026, Serhii Ivanenko
+
+If you use this software in your research or production environment,
+please attribute the authors by citing the following paper:
+
+Serhii Ivanenko, Carlos Segarra, and Rodrigo Bruno. 2026. Premature Hardware Binding is the Root of all Evil! Making Serverless Performance-Portable with Lazy Hardware Binding. In The 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026), November 15-18, 2026, Hong Kong, China. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3828523.3857117
